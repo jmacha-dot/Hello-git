@@ -1,2 +1,2 @@
 print("Login")
-print("Put the username and password to login")
+print("Coloca tu usuario y contraseña para iniciar sesión.")
